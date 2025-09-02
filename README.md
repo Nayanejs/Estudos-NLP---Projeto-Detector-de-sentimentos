@@ -1,15 +1,15 @@
-# Estudos-NLP---Projeto-Detector-de-sentimentos
+# NLP Simples - Análise de Sentimentos em Português
 
-# NLP Simples - Projeto para Estudos
+Este projeto é um exemplo **simples de Processamento de Linguagem Natural (NLP)**, criado para estudos e apresentações.  
+Ele demonstra como **analisar sentimentos de textos em português** de forma didática e passo a passo.
 
-Este projeto é um exemplo **simples de NLP (Processamento de Linguagem Natural)** para iniciantes.
+---
 
-## Funcionalidades
+## 🚀 Funcionalidades
+
 - Análise de sentimentos de textos em português
-- Código didático e passo a passo
-- Ideal para estudos e apresentação para professores
+- Traduz automaticamente para inglês para realizar a análise com **TextBlob**
+- Código didático e fácil de entender
+- Ideal para iniciantes em NLP
+- Excelente para apresentar em aulas ou workshops
 
-## Como usar
-1. Clonar o repositório:
-```bash
-git clone https://github.com/SEU_USUARIO/NLP-Simples.git
