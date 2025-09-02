@@ -1,0 +1,1 @@
+# Estudos-NLP---Projeto-Detector-de-sentimentos
